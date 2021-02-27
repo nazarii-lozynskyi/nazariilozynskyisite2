@@ -1,14 +1,5 @@
 /*************** INDEX.html styles ****************/
 
-.link {
-  text-decoration: none;
-}
-.list {
-  list-style: none;
-}
-.address {
-  font-style: normal;
-}
 /*==================== ROOT =======================*/
 :root {
   --priority-text-color: #212121;
@@ -22,6 +13,15 @@
   --secondary-font: "Raleway", sans-serif;
 }
 /*==================== END ROOT ===================*/
+.link {
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+.address {
+  font-style: normal;
+}
 
 /*================== CONPONENTS ===================*/
 /*for "WHAT WE DO" and "OUR TEAM"*/
